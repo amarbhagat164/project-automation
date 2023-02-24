@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-01-26T14:52:07 IST" name="Default suite" finished-at="2023-01-26T14:52:07 IST" duration-ms="59">
+    <groups>
+    </groups>
+    <test started-at="2023-01-26T14:52:07 IST" name="Default test" finished-at="2023-01-26T14:52:07 IST" duration-ms="59">
+      <class name="testNGTest.TestngClass">
+        <test-method is-config="true" signature="beforeClass()[pri:0, instance:testNGTest.TestngClass@1622f1b]" started-at="2023-01-26T14:52:07 IST" name="beforeClass" finished-at="2023-01-26T14:52:07 IST" duration-ms="6" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:testNGTest.TestngClass@1622f1b]" started-at="2023-01-26T14:52:07 IST" name="beforeMethod" finished-at="2023-01-26T14:52:07 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="test()[pri:0, instance:testNGTest.TestngClass@1622f1b]" started-at="2023-01-26T14:52:07 IST" name="test" finished-at="2023-01-26T14:52:07 IST" duration-ms="8" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:testNGTest.TestngClass@1622f1b]" started-at="2023-01-26T14:52:07 IST" name="afterMethod" finished-at="2023-01-26T14:52:07 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:testNGTest.TestngClass@1622f1b]" started-at="2023-01-26T14:52:07 IST" name="afterClass" finished-at="2023-01-26T14:52:07 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- testNGTest.TestngClass -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
